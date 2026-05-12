@@ -46,6 +46,8 @@
 
 - [`references/reward-shaping.raw.md`](references/reward-shaping.raw.md) — нарочно гладкий AI-русский без второго прохода.
 - [`references/reward-shaping.humanized.md`](references/reward-shaping.humanized.md) — тот же материал после применения правил.
+- [`references/ai-coding-agents-context-engineering.raw.md`](references/ai-coding-agents-context-engineering.raw.md) — англо-русская смесь из технического поста про агентные рабочие процессы.
+- [`references/ai-coding-agents-context-engineering.humanized.md`](references/ai-coding-agents-context-engineering.humanized.md) — тот же текст после русского прохода.
 
 ## Происхождение
 
